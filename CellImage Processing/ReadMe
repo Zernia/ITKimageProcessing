@@ -19,4 +19,5 @@ use otsu threshold, threshold image. rescale, etc.
 4 color the image label
 
 The output is
+[https://github.com/Zernia/ITKimageProcessing/blob/main/CellImage%20Processing/iMAGE/output1.png|alt=octocat]]
 ![](https://github.com/Zernia/ITKimageProcessing/blob/main/CellImage%20Processing/iMAGE/output1.png)
