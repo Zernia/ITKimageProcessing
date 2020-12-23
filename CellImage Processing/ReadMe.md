@@ -19,8 +19,4 @@ use otsu threshold, threshold image. rescale, etc.
 4 color the image label
 
 The output is
-![](iMAGE/output1.png)
 ![](https://github.com/Zernia/ITKimageProcessing/blob/main/CellImage%20Processing/iMAGE/output1.png)
-[https://github.com/Zernia/ITKimageProcessing/blob/main/CellImage%20Processing/iMAGE/output1.png|alt=octocat]]
-<img src="https://github.com/Zernia/ITKimageProcessing/blob/main/CellImage%20Processing/iMAGE/output1.png">
-<img src="https://github.com/favicon.ico" height="240" width="480">
