@@ -18,4 +18,4 @@ use otsu threshold, threshold image. rescale, etc.
 3 use morphology watershed to combine the image
 4 color the image label
 
-The output is :https://user-images.githubusercontent.com/22992439/102955096-19508f00-44a3-11eb-926a-886584866c46.png
+The output is <img width="379" alt="output1" src="https://user-images.githubusercontent.com/22992439/102955096-19508f00-44a3-11eb-926a-886584866c46.png">
