@@ -18,4 +18,4 @@ use otsu threshold, threshold image. rescale, etc.
 3 use morphology watershed to combine the image
 4 color the image label
 
-The output is <img width="379" alt="output1" src="https://user-images.githubusercontent.com/22992439/102955096-19508f00-44a3-11eb-926a-886584866c46.png">
+The output is ![alt text](https://github.com/Zernia/ITKimageProcessing/blob/main/CellImage%20Processing/iMAGE/output1.png?raw=true)
